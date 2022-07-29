@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SANDESH ATHAWALE
 - 👀 I’m interested in Artificial Intelligence and Machine learning
 - 🌱 I’m currently exploring above fields.
-- 💞️ I’m currently leaning Japanese Language
+- 💞️ I’m currently learning Japanese Language
 - 📫 reach me on [LinkedIn](https://www.linkedin.com/in/sandesh-athawale-b60676191/).
 
 <!---
